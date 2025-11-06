@@ -10,7 +10,7 @@
 - 💬 Ask me about **MERN Stack Development, AI Integration (Gemini API), and AWS Deployment**
 
 - 📫 How to reach me **veerabhaypratapsingh.as@gmail.com**
-
+      
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhay-pratap-singh-432640251](https://www.linkedin.com/in/abhay-pratap-singh-432640251)
 
 <h3 align="left">Connect with me:</h3>
