@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Abhay8769305414
-- 👀 I’m interested in ...Btech 2nd year
+👋 Hey there, I'm Abhay Pratap Singh
 
-- 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.linkedin.com/in/abhay-pratap-singh-432640251
+I'm a B.Tech CSE student (4th Year) at VIT University, passionate about building impactful digital solutions that blend AI, web development, and cloud computing.
 
-<!---
-Abhay8769305414/Abhay8769305414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 What I’m Working On --
+
+Developing AI-powered full-stack applications using React, Node.js, and Gemini API.
+
+Exploring Data Structures & Algorithms (DSA) to improve my problem-solving skills.
+
+Learning advanced AWS Cloud concepts for scalable and secure app deployment.
